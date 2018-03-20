@@ -6,7 +6,7 @@ This is a preview image about generating training with reveal.js.
 
 ## Versions
 
-- `0.1-0` [(Dockerfile)](https://github.com/rawmind0/rancher-training-preview/blob/0.1-0/Dockerfile)
+- `0.1-1` [(Dockerfile)](https://github.com/rawmind0/rancher-training-preview/blob/0.1-1/Dockerfile)
 
 ## Build
 
