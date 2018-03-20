@@ -1,4 +1,4 @@
-[![](https://images.microbadger.com/badges/image/rawmind/hms.svg)](https://microbadger.com/images/rawmind/hms "Get your own image badge on microbadger.com")
+[![](https://images.microbadger.com/badges/image/rawmind/rancher-training-preview.svg)](https://microbadger.com/images/rawmind/rancher-training-preview "Get your own image badge on microbadger.com")
 
 # rancher-training-preview
 
@@ -6,7 +6,7 @@ This is a preview image about generating training with reveal.js.
 
 ## Versions
 
-- `Latest` [(Dockerfile)](https://github.com/4km3/hms/blob/master/Dockerfile)
+- `0.1-0` [(Dockerfile)](https://github.com/rawmind0/rancher-training-preview/blob/0.1-0/Dockerfile)
 
 ## Build
 
