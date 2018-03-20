@@ -1,0 +1,63 @@
+<html>
+    <head>
+        <link rel="stylesheet" href="css/reveal.css">
+        <link rel="stylesheet" href="css/theme/moon.css">
+    </head>
+    <body>
+
+        <div class="reveal">
+            <div class="slides">
+            	<section>
+	            	<section data-markdown="slides/day1/courseDescription.md"></section>
+                </section>
+            	<section>
+                	<section style="text-align: left;" data-markdown="slides/day1/ATDD/slides/microservicesIntro.md"></section>
+                </section>
+                <section>
+                	<section style="text-align: left;" data-markdown="slides/day1/ATDD/slides/ATDD.md"></section>
+                </section>
+                <section>
+                	<section style="text-align: left;" data-markdown="slides/day1/TDD/slides/TDD.md"></section>
+                </section>
+                <section>
+                	<section data-markdown="slides/day1/containers/slides/containers.md"></section>
+                </section>
+                <section>
+                	<section data-markdown="slides/day1/CI/slides/CI.md"></section>
+                </section>
+                <section>
+                	<section style="text-align: left;" data-markdown="slides/day2/microservices/slides/Microservices.md"></section>
+                </section>
+                <section>
+                	<section data-markdown="slides/day2/Containers_Platform/slides/Containers_Platform.md"></section>
+                </section>
+                <section>
+                	<section data-markdown="slides/day3/CD/slides/CD.md"></section>
+                </section>
+            </div>
+	</div>
+        
+	<script src="lib/js/head.min.js"></script>
+        <script src="js/reveal.js"></script>
+	<script>
+		// More info https://github.com/hakimel/reveal.js#configuration
+		Reveal.initialize({
+			controls: true,
+			progress: true,
+			history: true,
+			center: true,
+
+			transition: 'slide', // none/fade/slide/convex/concave/zoom
+
+			dependencies: [
+				{ src: 'lib/js/classList.js', condition: function() { return !document.body.classList; } },
+				{ src: 'plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+				{ src: 'plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+				{ src: 'plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } },
+				{ src: 'plugin/zoom-js/zoom.js', async: true },
+				{ src: 'lugin/notes/notes.js', async: true }
+			]
+		});
+	</script>
+</body>
+</html>
