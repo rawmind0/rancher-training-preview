@@ -118,80 +118,80 @@ Functionality is the most important...
 
 #### Overview
 
-<img src="day2/Containers_Platform/slides/images/rancher-overview.jpg", style="height:auto; width:900; background-color:white; float:center;"/>
+<img src="slides/day2/Containers_Platform/slides/images/rancher-overview.jpg", style="height:auto; width:900; background-color:white; float:center;"/>
 
 ---
 
 #### Platform Schema
 Manage multiple isolated environments
-<img src="day2/Containers_Platform/slides/images/platform.jpg", style="height:auto; width:900; background-color:white; float:center;"/>
+<img src="slides/day2/Containers_Platform/slides/images/platform.jpg", style="height:auto; width:900; background-color:white; float:center;"/>
 
 ---
 
 #### Environment
 Environments by functionality
-<img src="day2/Containers_Platform/slides/images/rancher-environment.jpg", style="height:auto; width:900; background-color:white; float:center;"/>
+<img src="slides/day2/Containers_Platform/slides/images/rancher-environment.jpg", style="height:auto; width:900; background-color:white; float:center;"/>
 
 ---
 
 #### Lifecycle environments
 DEV (Local vm)
 
-<img src="day2/Containers_Platform/slides/images/rancher-diagram.png", style="height:auto; width:900; background-color:white; float:center;"/>
+<img src="slides/day2/Containers_Platform/slides/images/rancher-diagram.png", style="height:auto; width:900; background-color:white; float:center;"/>
 
 ---
 
 PRO HA + Multicloud machines
 
-<img src="day2/Containers_Platform/slides/images/rancher-HA-diagram.png", style="height:auto; width:900; background-color:white; float:center;"/>
+<img src="slides/day2/Containers_Platform/slides/images/rancher-HA-diagram.png", style="height:auto; width:900; background-color:white; float:center;"/>
 
 ---
 
 #### Hosts
 Provide host from multiple cloud providers 
-<img src="day2/Containers_Platform/slides/images/rancher-host.jpg", style="height:auto; width:900; background-color:white; float:center;"/>
+<img src="slides/day2/Containers_Platform/slides/images/rancher-host.jpg", style="height:auto; width:900; background-color:white; float:center;"/>
 
 ---
 
 #### Schedulers
 Choose orchetrator by environment
-<img src="day2/Containers_Platform/slides/images/rancher-schedulers.jpg", style="height:auto; width:900; background-color:white; float:center;"/>
+<img src="slides/day2/Containers_Platform/slides/images/rancher-schedulers.jpg", style="height:auto; width:900; background-color:white; float:center;"/>
 
 ---
 
 #### Network
 Choose the network management
-<img src="day2/Containers_Platform/slides/images/rancher-network.jpg", style="height:auto; width:900; background-color:white; float:center;"/>
+<img src="slides/day2/Containers_Platform/slides/images/rancher-network.jpg", style="height:auto; width:900; background-color:white; float:center;"/>
 
 ---
 
 #### Storage
 Choose storage backend
-<img src="day2/Containers_Platform/slides/images/rancher-storage.jpg", style="height:auto; width:900; background-color:white; float:center;"/>
+<img src="slides/day2/Containers_Platform/slides/images/rancher-storage.jpg", style="height:auto; width:900; background-color:white; float:center;"/>
 
 ---
 
 #### Service Discovery
 Built in service discovery
-<img src="day2/Containers_Platform/slides/images/rancher-SDiscovery.jpg", style="height:auto; width:900; background-color:white; float:center;"/>
+<img src="slides/day2/Containers_Platform/slides/images/rancher-SDiscovery.jpg", style="height:auto; width:900; background-color:white; float:center;"/>
 
 ---
 
 #### Service Management
 HAproxy, traefik or external load balancers
-<img src="day2/Containers_Platform/slides/images/rancher-SManagement.jpg", style="height:auto; width:900; background-color:white; float:center;"/>
+<img src="slides/day2/Containers_Platform/slides/images/rancher-SManagement.jpg", style="height:auto; width:900; background-color:white; float:center;"/>
 
 ---
 
 #### Catalog
 One click deploy already integrated services
-<img src="day2/Containers_Platform/slides/images/rancher-catalog.jpg", style="height:550; width:auto; background-color:white; float:center;"/>
+<img src="slides/day2/Containers_Platform/slides/images/rancher-catalog.jpg", style="height:550; width:auto; background-color:white; float:center;"/>
 
 ---
 
 #### API
 Full featured API 
-<img src="day2/Containers_Platform/slides/images/rancher-api.jpg", style="height:auto; width:900; background-color:white; float:center;"/>
+<img src="slides/day2/Containers_Platform/slides/images/rancher-api.jpg", style="height:auto; width:900; background-color:white; float:center;"/>
 
 ---
 
