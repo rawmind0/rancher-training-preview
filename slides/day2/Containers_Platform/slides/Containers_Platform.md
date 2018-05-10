@@ -33,7 +33,7 @@ Also, the scheduler is responsible to move or to rebalance the services if a ser
 
 Principal scheduler/orchestrator in the market
 
-<img src="day2/Containers_Platform/slides/images/scheduler.jpg", style="height:auto; width:900; background-color:white; float:center;"/>
+<img src="slides/day2/Containers_Platform/slides/images/scheduler.jpg", style="height:auto; width:900; background-color:white; float:center;"/>
  
 
 ---
@@ -48,7 +48,7 @@ It helps to avoid networking collision and/or overlap between all the services e
 
 Principal network services in the market
 
-<img src="day2/Containers_Platform/slides/images/network.jpg", style="height:auto; width:900; background-color:white; float:center;"/>
+<img src="slides/day2/Containers_Platform/slides/images/network.jpg", style="height:auto; width:900; background-color:white; float:center;"/>
 
 ---
 
@@ -62,7 +62,7 @@ Basically, you could choose between block storage, fs storage or object storage.
 
 Principal storage services in the market
 
-<img src="day2/Containers_Platform/slides/images/storage.jpg", style="height:auto; width:900; background-color:white; float:center;"/>
+<img src="slides/day2/Containers_Platform/slides/images/storage.jpg", style="height:auto; width:900; background-color:white; float:center;"/>
 
 ---
 
@@ -78,7 +78,7 @@ System discovery is dependent of the scheduler you are using.
 
 Principal Service discovery in the market
 
-<img src="day2/Containers_Platform/slides/images/service_discovery.jpg", style="height:auto; width:900; background-color:white; float:center;"/>
+<img src="slides/day2/Containers_Platform/slides/images/service_discovery.jpg", style="height:auto; width:900; background-color:white; float:center;"/>
 
 ---
 
@@ -95,12 +95,12 @@ Load balancer could be external or internal, depending the use of them.
 
 Principal service management in the market
 
-<img src="day2/Containers_Platform/slides/images/service_management.jpg", style="height:auto; width:900; background-color:white; float:center;"/>
+<img src="slides/day2/Containers_Platform/slides/images/service_management.jpg", style="height:auto; width:900; background-color:white; float:center;"/>
 
 ---
 
 Functionality is the most important...
-<img src="https://raw.githubusercontent.com/cncf/landscape/master/landscape/CloudNativeLandscape_v0.9.3.jpg", style="height:600; width:auto; background-color:white; float:center;"/>
+<img src="https://raw.githubusercontent.com/cncf/landscape/master/landscape/CloudNativeLandscape_latest.png", style="height:600; width:auto; background-color:white; float:center;"/>
 
 ---
 

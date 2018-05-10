@@ -40,19 +40,32 @@
 	<script src="lib/js/head.min.js"></script>
         <script src="js/reveal.js"></script>
 	<script>
-		// More info https://github.com/hakimel/reveal.js#configuration
+		<!-- More info https://github.com/hakimel/reveal.js#configuration -->
 		Reveal.initialize({
 			controls: true,
 			progress: true,
 			history: true,
 			center: true,
 
-			transition: 'slide', // none/fade/slide/convex/concave/zoom
+			transition: 'slide', <!-- none/fade/slide/convex/concave/zoom -->
 
             parallaxBackgroundImage: 'slides/images/rancher-back.jpg',
             parallaxBackgroundSize: '1800px ',
-            //parallaxBackgroundHorizontal: 200,
+            <!-- parallaxBackgroundHorizontal: 200, -->
             parallaxBackgroundVertical: 0,
+
+            // The "normal" size of the presentation, aspect ratio will be preserved
+            // when the presentation is scaled to fit different resolutions. Can be
+            // specified using percentage units.
+            width: 1280,
+            height: 720,
+
+            // Factor of the display size that should remain empty around the content
+            margin: 0.1,
+
+            // Bounds for smallest/largest possible scale to apply to content
+            minScale: 0.2,
+            maxScale: 1.5,
 
 			dependencies: [
 				{ src: 'lib/js/classList.js', condition: function() { return !document.body.classList; } },
