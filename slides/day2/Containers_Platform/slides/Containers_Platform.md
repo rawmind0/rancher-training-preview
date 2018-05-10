@@ -99,6 +99,11 @@ Principal service management in the market
 
 ---
 
+#### Container Platform
+
+<img src="slides/day2/Containers_Platform/slides/images/container_platform.jpg", style="height:auto; width:900; background-color:white; float:center;"/>
+
+---
 Functionality is the most important...
 <img src="https://raw.githubusercontent.com/cncf/landscape/master/landscape/CloudNativeLandscape_latest.png", style="height:600; width:auto; background-color:white; float:center;"/>
 
